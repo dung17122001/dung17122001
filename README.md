@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Van Dung</h1>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: nguyenvandungg17@gmail.com</h3>
 <p align="left">
 </p>
 
